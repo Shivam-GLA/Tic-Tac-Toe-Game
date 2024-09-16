@@ -7,7 +7,8 @@
 nav{
     background-color: rgb(37,9,37);
     color: white;
-    height:65px;
+    /* height:65px; */
+    height: 10vh;
     font-size: 27px;
     display: flex;
     align-items: center;
@@ -21,7 +22,8 @@ nav ul{
     /* border:4px solid green; */
     display:flex;
     justify-content: center;
-    margin-top: 50px;
+    align-items: center;
+    height: 90vh;
 }
 .container{
     display: grid;
